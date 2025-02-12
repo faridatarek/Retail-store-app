@@ -2,12 +2,10 @@
 
 A new Flutter project.
 ## Screenshots 📸
-<div style="display: flex; justify-content: center;">
-  <img src="https://github.com/user-attachments/assets/4d6224e2-9152-41ea-b502-907b5fb0feb6" style="margin: 0 10px;" />
-  <img src="https://github.com/user-attachments/assets/7738111f-c824-4bbc-8c1e-57edcdbf9447" style="margin: 0 10px;" />
-  <img src="https://github.com/user-attachments/assets/c7524d45-c341-44fc-8888-1e0d701e6c37" style="margin: 0 10px;" />
-  <img src="https://github.com/user-attachments/assets/687c6030-6f68-471f-84c1-fc6add53412a" style="margin: 0 10px;" />
-</div>
+Below are the app's screenshots that highlight its functionality:
+
+
+<img src="https://github.com/user-attachments/assets/4d6224e2-9152-41ea-b502-907b5fb0feb6" alt="Choose Quiz Screenshot" width="160"> <img src="https://github.com/user-attachments/assets/7738111f-c824-4bbc-8c1e-57edcdbf9447" alt="Quiz Overview Screenshot" width="160"> <img src="https://github.com/user-attachments/assets/c7524d45-c341-44fc-8888-1e0d701e6c37" alt="Question Screenshot" width="160"> <img src="https://github.com/user-attachments/assets/687c6030-6f68-471f-84c1-fc6add53412a" alt="Results Screenshot" width="160"> <img src="https://github.com/user-attachments/assets/2d8abb2d-7878-41d9-95ca-daff068c96fb" alt="Feedback Screenshot" width="160">
 
 ## Getting Started
 
