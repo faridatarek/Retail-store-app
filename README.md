@@ -3,10 +3,10 @@
 A new Flutter project.
 ## Screenshots 📸
 <p>
-  <img src="https://github.com/user-attachments/assets/4d6224e2-9152-41ea-b502-907b5fb0feb6" width="auto" />
-  <img src="https://github.com/user-attachments/assets/7738111f-c824-4bbc-8c1e-57edcdbf9447" width="auto" />
-  <img src="https://github.com/user-attachments/assets/c7524d45-c341-44fc-8888-1e0d701e6c37" width="auto" />
-  <img src="https://github.com/user-attachments/assets/687c6030-6f68-471f-84c1-fc6add53412a" width="auto" />
+  <img src="https://github.com/user-attachments/assets/4d6224e2-9152-41ea-b502-907b5fb0feb6" width="20%" />
+  <img src="https://github.com/user-attachments/assets/7738111f-c824-4bbc-8c1e-57edcdbf9447" width="20%" />
+  <img src="https://github.com/user-attachments/assets/c7524d45-c341-44fc-8888-1e0d701e6c37" width="20%" />
+  <img src="https://github.com/user-attachments/assets/687c6030-6f68-471f-84c1-fc6add53412a" width="20%" />
 </p>
 
 ## Getting Started
