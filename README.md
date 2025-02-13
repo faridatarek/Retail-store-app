@@ -27,6 +27,7 @@ Below are the app's screenshots that highlight its functionality:
 ## Demo Video
 
 Watch the demo video of Retail Store App below:
-[![image](https://github.com/user-attachments/assets/42965287-a89c-428b-b514-8b4990b2bcf4)
-](https://youtu.be/DG5U1sQ9QRQ)
+[![image](https://github.com/user-attachments/assets/da21b36f-c242-4d3e-ad41-0883e3fd224c)
+](https://youtu.be/QKz68JWNG9E)
+
 
