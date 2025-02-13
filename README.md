@@ -1,5 +1,6 @@
 # Retail_store
 Retail is a Flutter-based e-commerce application designed to provide users with a seamless shopping experience for grocery products. The app offers an intuitive interface, allowing customers to easily browse, order, and purchase a wide range of food items, from fresh produce to packaged goods, ensuring a convenient and enjoyable shopping journey
+
 ---
 
 ---
