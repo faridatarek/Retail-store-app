@@ -1,5 +1,8 @@
 # Retail_store
 Retail is a Flutter-based e-commerce application designed to provide users with a seamless shopping experience for grocery products. The app offers an intuitive interface, allowing customers to easily browse, order, and purchase a wide range of food items, from fresh produce to packaged goods, ensuring a convenient and enjoyable shopping journey
+---
+
+---
 ## Features
 - **User Authentication:** Secure login and registration functionality.
 - **Product Browsing:**  Explore a wide variety of grocery products, including fresh produce, dairy, snacks, and more.
@@ -26,15 +29,3 @@ Watch the demo video of Retail Store App below:
 [![image](https://github.com/user-attachments/assets/42965287-a89c-428b-b514-8b4990b2bcf4)
 ](https://youtu.be/DG5U1sQ9QRQ)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
